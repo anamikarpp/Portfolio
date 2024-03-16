@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Budget Calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to manage expenses and calculate budget",
+      "skills": ["Javascript", "Css", "Html"],
+      "demo": "https://anamikarpp.github.io/Budget-Calc/",
+      "source": "https://github.com/anamikarpp/Budget-Calc"
+    },
+    {
+      "title": "Fun game",
+      "imageSrc": "projects/project.png",
+      "description": "Fun game of rolling dice over and over until we the winner :)",
+      "skills": ["Javascript", "Css", "Html"],
+      "demo": "https://anamikarpp.github.io/PIGgame/",
+      "source": "https://github.com/anamikarpp/PIGgame"
+    },
+    {
+      "title": "Employee Management",
+      "imageSrc": "projects/project.png",
+      "description": "A spring boot application which collects employees data and stores it in database.", 
+      "skills": ["Java", "Springboot"],
+      "source": "https://github.com/anamikarpp/RestAPI"
+    }
+  ]
+  

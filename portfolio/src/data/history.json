@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Software Development Engineer",
+      "organisation": "Philips",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on React single page application", "Web application for managing CT protocols"],
+      "imageSrc": "history/philips.png"
+    },
+    {
+      "role": "Research and Development Intern",
+      "organisation": "Philips",
+      "startDate": "Jan, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Spring Boot Application", "improved code coverage, worked on fortify issues"],
+      "imageSrc": "history/philips.png"
+    }
+  ]
+  
